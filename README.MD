@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-Network Watcher is a lightweight Android utility class that provides easy-to-use network connectivity monitoring. It helps developers track network connection changes and determine the current network type with minimal setup.
+Android Network Watcher is a lightweight Android utility class that provides easy-to-use network connectivity monitoring. It helps developers track network connection changes and determine the current network type with minimal setup.
 
 ## ⭐ Features
 
