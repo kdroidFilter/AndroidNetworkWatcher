@@ -75,8 +75,7 @@ The library supports the following network types:
 
 ## Compatibility
 
-- Minimum Android SDK: 21 (Android 5.0 Lollipop)
-- Tested on Android versions up to 13
+- Minimum Android SDK: 23 
 
 ## License
 
